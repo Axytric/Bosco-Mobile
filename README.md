@@ -1,5 +1,11 @@
-# Bosco-Mobile
+PETA for Group 7 ICT Software 9 2023-2024 
+"Bosco Mobile"
 
-PETA
-Group 7 
-Yash Bhojwani | Olivar Miguel | Magadato Lorenzo | Teo Zander
+Contributers:
+Yash, Bhojwani |
+Olivar, Miguel |
+Magdato, Lorenzo |
+Teo, Zander |
+
+Others:
+Galon, Zeev
